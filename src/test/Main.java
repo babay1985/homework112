@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Первый раз пишу");
         System.out.println("Hello world");
+        System.out.println("1234567");
     }
 }
